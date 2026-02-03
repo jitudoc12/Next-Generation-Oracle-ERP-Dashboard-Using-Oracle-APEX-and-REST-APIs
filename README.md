@@ -42,7 +42,7 @@ PL/SQL → Fusion Cloud (REST APIs)
 
 ---
 
-## 📦 Modules
+## 📦 Modules 
 1. Executive Dashboard (KPIs)
 2. AP Invoice Status (EBS + Fusion)
 3. AR Aging Report
